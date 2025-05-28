@@ -11,7 +11,10 @@ Source Codes: Comming Soon!
 `News`: Open-Det has been accepted to ICML 2025!
 
 ## Open-Det in Videos Detection
-[Open-Det](resource/Open-Det.gif)
+<div align=center>
+<img src="./resource/Open-Det.gif" width="90%"/>
+</div>
+
 
 ## Highlight
 
