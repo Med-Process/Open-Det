@@ -12,7 +12,7 @@ Source Codes: Comming Soon!
 
 ## Open-Det in Videos Detection
 
-* Detection objects across large and small scales:
+* Detecting objects across large and small scales:
 <div align=center>
 <img src="resource/Open-Det1.gif" width="90%"/>
 </div>
