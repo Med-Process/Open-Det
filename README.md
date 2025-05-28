@@ -10,6 +10,9 @@ Source Codes: Comming Soon!
 
 `News`: Open-Det has been accepted to ICML 2025!
 
+## Open-Det in Videos Detection
+[Open-Det](resource/Open-Det.mp4)
+
 ## Highlight
 
 * An efficient framework for Open-Ended object Detection: with 0.077M training data (VG) and less training epochs, using 4 V100 GPUs, achieving higher performance.
