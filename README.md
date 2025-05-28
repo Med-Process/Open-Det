@@ -11,14 +11,18 @@ Source Codes: Comming Soon!
 `News`: Open-Det has been accepted to ICML 2025!
 
 ## Open-Det in Videos Detection
+
+* Detection across large and small scales:
 <div align=center>
 <img src="resource/Open-Det1.gif" width="90%"/>
 </div>
 
+* Detection across coarse-grained and fine-grained objects:
 <div align=center>
 <img src="resource/Open-Det2.gif" width="90%"/>
 </div>
 
+* Detection in complex scenarios:
 <div align=center>
 <img src="resource/Open-Det3.gif" width="90%"/>
 </div>
