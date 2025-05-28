@@ -12,7 +12,7 @@ Source Codes: Comming Soon!
 
 ## Open-Det in Videos Detection
 <div align=center>
-<img src="./resource/Open-Det.gif" width="90%"/>
+<img src="resource/Open-Det.gif" width="90%"/>
 </div>
 
 
