@@ -1,5 +1,5 @@
 # Open-Det
-This is the official code (based on Pytorch framework) for the paper "Open-Det: An Efficient Learning Framework for Open-Ended Detection".
+This is the official code (based on Pytorch framework) for the paper "Open-Det: An Efficient Learning Framework for Open-Ended Detection"[Open-Det](https://arxiv.org/abs/2505.20639).
 
 
 ## Updates
@@ -100,6 +100,19 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python3 launch.py --np 4 --resume --nn 1 --uni 1 --
 ```
 CUDA_VISIBLE_DEVICES=0 python3 tools/evaluate_ap_fixed.py --annotations_json /data/path/lvis_v1_minival.json --results_json ./outputs/path/inference/lvis_instances_results.json --output_dir output_eval
 ```
+Taking Open-Det-Swin-L as example, you will obtain the results:
+![framework](resource/Open-Det-Swin-L.png)
+
+## Citation
+If you find our repo useful for your research, please consider citing our paper:
+
+@inproceedings{cao2025opendet,
+  title={Open-Det: An Efficient Learning Framework for Open-Ended Detection},
+  author={Guiping, Cao and Tao, Wang and Wenjian, Huang and Xiangyuan, Lan and Jianguo, Zhang and Dongmei, Jiang},
+  booktitle={International Conference on Machine Learning},
+  year={2025},
+  organization={PMLR}
+}
 
 ## License
 
