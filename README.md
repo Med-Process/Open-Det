@@ -1,5 +1,5 @@
 # Open-Det
-This is the official code (based on Pytorch framework) for the paper "Open-Det: An Efficient Learning Framework for Open-Ended Detection"[Open-Det](https://arxiv.org/abs/2505.20639).
+This is the official code (based on Pytorch framework) for the paper "Open-Det: An Efficient Learning Framework for Open-Ended Detection" [paper](https://arxiv.org/abs/2505.20639).
 
 
 ## Updates
@@ -106,6 +106,7 @@ Taking Open-Det-Swin-L as example, you will obtain the results:
 ## Citation
 If you find our repo useful for your research, please consider citing our paper:
 
+```
 @inproceedings{cao2025opendet,
   title={Open-Det: An Efficient Learning Framework for Open-Ended Detection},
   author={Guiping, Cao and Tao, Wang and Wenjian, Huang and Xiangyuan, Lan and Jianguo, Zhang and Dongmei, Jiang},
@@ -113,6 +114,7 @@ If you find our repo useful for your research, please consider citing our paper:
   year={2025},
   organization={PMLR}
 }
+```
 
 ## License
 
