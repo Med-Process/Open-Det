@@ -100,7 +100,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python3 launch.py --np 4 --resume --nn 1 --uni 1 --
 ```
 CUDA_VISIBLE_DEVICES=0 python3 tools/evaluate_ap_fixed.py --annotations_json /data/path/lvis_v1_minival.json --results_json ./outputs/path/inference/lvis_instances_results.json --output_dir output_eval
 ```
-Taking Open-Det-Swin-L as example, you will obtain the results:
+Taking Open-Det-Swin-L as an example, you will obtain the results:
 ![framework](resource/Open-Det-Swin-L.png)
 
 ## Citation
