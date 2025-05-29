@@ -49,6 +49,8 @@ Source Codes: Comming Soon!
 ## Data Preparation of VG and LVIS data
 For the data preparation, please follow the instructions from [GenerateU](https://github.com/FoundationVision/GenerateU) to download the training and evaluation data.
 
+* Download the checkpoints of backbone into the folder "./weights": [download](https://pan.baidu.com/s/19watQ4XYOdRt1-fax5I_Yg?pwd=1234).
+
 ## Pretrained Models
 
 Models and performance of Zero-shot on LVIS:
