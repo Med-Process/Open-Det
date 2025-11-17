@@ -4,7 +4,7 @@ This is the official code (based on Pytorch framework) for the paper "Open-Det: 
 
 ## Updates
 
-Source Codes: Comming Soon!
+Codes are available at [Open-Det](https://github.com/Med-Process/Open-Det2).
 
 ***01/05/2025***
 
